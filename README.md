@@ -29,7 +29,7 @@ npm install
 ```bash
 npm start
 ```
-This will start the app and open it in your default browser.
+5. Open your web browser and visit http://localhost:3000 to see the app in action.
 
 ## Usage
 
